@@ -1,4 +1,5 @@
 import requests
+import os
 # pyrefly: ignore [missing-import]
 from fastapi import FastAPI
 # pyrefly: ignore [missing-import]
